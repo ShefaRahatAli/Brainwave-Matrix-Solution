@@ -6,12 +6,7 @@ PROJECT
 # TASK-1 : Fake-News-Detector
 
 A machine learning project to classify news articles as **Real** or **Fake** using natural language processing techniques.
-## 🖥️ Running the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/fake-news-detector.git
-   cd fake-news-detector
 ## 🔗 Open in Google Colab 
 https://colab.research.google.com/drive/1nT4-sFveovp_lBwoS8X_vdmr2aL3AxQk#scrollTo=JLMAzBoKfKnb
 
