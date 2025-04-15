@@ -1,5 +1,5 @@
-# Brainwave-Matrix-Solution
-Internship
+# Brainwave-Matrix-Solution-INTERNSHIP
+PROJECT
 # Text-to-Image Generator
 
 This project uses a Gradio interface to generate images from text input.
