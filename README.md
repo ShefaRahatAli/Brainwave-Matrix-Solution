@@ -24,6 +24,5 @@ This project uses a Gradio interface to generate images from text input.
 
 https://colab.research.google.com/drive/1ieklNtMi50SPjwznbA101sABuo0cdtmK#scrollTo=EUCYNhuPfIv7
 ## 🔗 Project
-https://a3ede53a667b3b0127.gradio.live
-
+https://de386119f27c9e4a29.gradio.live
 PS: link is not working after 6 hours because I am using free version of Collab!
